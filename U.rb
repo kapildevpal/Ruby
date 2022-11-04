@@ -108,7 +108,7 @@ end
 
 a=[0, 2, 3, 4, 5, 6]
 a.new
-p b
+print b
 
 
 
